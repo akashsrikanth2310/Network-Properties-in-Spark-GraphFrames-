@@ -1,2 +1,1 @@
-# Network-Properties-in-Spark-GraphFrames-
-Implementing Network Properties in Spark GraphFrames 
+Project Implements various network properties using pySpark and GraphFrames
